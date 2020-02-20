@@ -16,7 +16,7 @@
 
 1. 50% неуспешных тестов
 
-2. Ссылка на баг-репорт: https://github.com/camenzindmp/MoneyTransferTask/issues
+2. Ссылка на баг-репорт: https://github.com/camenzindmp/MoneyTransferTask/issues/1
 
 ## Общие рекомендации
 
